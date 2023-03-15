@@ -10,7 +10,7 @@
   Also we will do our analysis for both city and resort as individual businesses and in comparision to one another. We will also take help of charts for better analysis.
 
 ## Dataset:
-The iven dataset have information of city and resort hotel. This dataset have 11390 rows and 32 coulumns. The columns from the dataset is as follows:
+The given dataset have information of city and resort hotel. This dataset have 11390 rows and 32 coulumns. The columns from the dataset is as follows:
 
 **Hotel:** Type of hotel(City or Resort)
 
